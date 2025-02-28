@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer – SDET** at Direct Line Group, based in **London, UK** 🇬🇧. With close to **09 years of experience** in **test automation, software development, and quality assurance**, I specialize in building scalable, efficient, and reliable test frameworks that ensure software quality and performance.
+I'm a **Software Engineer – SDET** at Direct Line Group, based in **London, UK** . With close to **09 years of experience** in **test automation, software development, and quality assurance**, I specialize in building scalable, efficient, and reliable test frameworks that ensure software quality and performance.
 
 ## 🔧 Tech Stack & Skills
 - **Languages:** Java, JavaScript, Python
